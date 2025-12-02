@@ -1,0 +1,4 @@
+1. save normally
+2. stage which files you want to include in the commit
+3. add a practical and succint commit message
+4. click to commit
